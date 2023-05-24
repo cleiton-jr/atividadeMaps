@@ -1,0 +1,11 @@
+1) Criar um Aplicativo;
+
+2) Instalar o google Maps,
+(npm install @capacitor/google-maps);
+
+3)Programar o google maps;
+
+4)Adicionar o import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+
+5)Adicionar o schema no NgModule;
+
